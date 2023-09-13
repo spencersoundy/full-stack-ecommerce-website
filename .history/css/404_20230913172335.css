@@ -1,0 +1,8 @@
+.four-0-four{
+    width: 100%;
+    height: 100vh;
+    background: url(../img/404-bg.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}

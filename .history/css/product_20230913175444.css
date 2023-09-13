@@ -1,0 +1,42 @@
+.product-section{
+    width: 100%;
+    margin-top: 120px;
+    padding: 0px 5vw;
+    display: flex;
+    gap: 40px;
+}
+
+.product-image{
+    width: 70px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.product-title{
+    font-size: 60px;
+}
+
+.product-des{
+    margin: 30px;
+    font-family: 'lato', sans-serif;
+    opacity: 0.5;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.ratings{
+    display: flex;
+}
+
+.ratings .stars{
+    width: 30px;
+    height: 30px;
+}
+
+.rating-count{
+    font-family: 'lato', sans-serif;
+    opacity: 0.4;
+    font-size: 14px;
+    line-height: 40px;
+    margi
+}
