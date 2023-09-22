@@ -1,0 +1,19 @@
+.form-section{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fafafa;
+}
+
+.form-container{
+    width: 60%;
+}
+
+.form{
+    width: 40%;
+    height: 100%;
+    over
+}
