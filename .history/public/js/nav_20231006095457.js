@@ -1,0 +1,3 @@
+const createNavbar = () => {
+    let navbar =
+}
